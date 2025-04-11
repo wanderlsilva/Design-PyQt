@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="menu">
+    <file>icones/Calcular.png</file>
+    <file>icones/exit.png</file>
+  </qresource>
+</RCC>
